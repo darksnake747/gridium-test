@@ -16,3 +16,6 @@
 
 # broccoli-debug
 /DEBUG/
+
+# ide
+/.idea/
