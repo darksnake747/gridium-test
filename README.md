@@ -18,6 +18,11 @@ I worked with data from the bills endpoint, but time restricted me from doing an
 readings. If I spent more time on this project, I would want to add more comments in the code, more specialized testing,
 and more features to the content (changing the filter dates, record sort order, etc).
 
+## Online Demo
+
+[Check the app out live here!](https://darksnake747.github.io/gridium-test/)
+
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
