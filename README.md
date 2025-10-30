@@ -22,6 +22,8 @@ and more features to the content (changing the filter dates, record sort order, 
 
 [Check the app out live here!](https://darksnake747.github.io/gridium-test/)
 
+Note: if it does not load when you first open the page, try refreshing the page once. 
+There seems to be an issue there somewhere...
 
 ## Prerequisites
 
