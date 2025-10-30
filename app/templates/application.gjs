@@ -1,12 +1,13 @@
 import pageTitle from 'ember-page-title/helpers/page-title';
-import WelcomePage from 'ember-welcome-page/components/welcome-page';
+import AppHeader from '../components/app-header';
 
 <template>
-  {{pageTitle "GridiumTest"}}
+  {{pageTitle "Gridium Test"}}
 
-  {{outlet}}
+  {{! output the app header: title and main menu }}
+  <AppHeader></AppHeader>
 
-  {{! The following component displays Ember's default welcome message. }}
-  <WelcomePage />
-  {{! Feel free to remove this! }}
+  <div class="app-contents">
+    {{outlet}}
+  </div>
 </template>
