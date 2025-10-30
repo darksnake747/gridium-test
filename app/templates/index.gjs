@@ -13,7 +13,7 @@ import { pageTitle } from 'ember-page-title';
     <li>Makes use of models, adapters, and other key EmberJS features</li>
     <li>
       Available on Github; please see the README here:
-      <a href="https://github.com/darksnake747/gridium-test" target="_blank">Gridium Test</a>
+      <a href="https://github.com/darksnake747/gridium-test" target="_blank" rel="noopener noreferrer">Gridium Test</a>
     </li>
   </ul>
 </template>
